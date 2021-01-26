@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM arm64v8/node:8.9.4-alpine
 MAINTAINER St. John Johnson <st.john.johnson@gmail.com> and Jeremiah Wuenschel <jeremiah.wuenschel@gmail.com>
 
 # Create our application direcory
